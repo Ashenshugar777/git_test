@@ -1,0 +1,1 @@
+Publish "Hello World!" >> hello_world.txt
